@@ -1,458 +1,209 @@
 # Goatman
 
-> *"Half man, half goat, all terror."*
+> An umbrella name for several American urban-legend creatures described as half-man, half-goat. The best-attested versions are the Maryland Goatman of Prince George's County (popularized 1971), the Lake Worth Monster of Fort Worth, Texas (sightings July 1969), and the Pope Lick Monster of Fisherville, Kentucky.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Sightings](https://img.shields.io/badge/sightings-150+-orange)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-30-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `goatman` |
-| **Category** | CRYPTID/FOLKLORE |
-| **Classification** | Humanoid / Hybrid |
-| **First Recorded** | 1950s-1960s (varies by region) |
-| **Primary Regions** | Maryland, Texas, Kentucky, USA |
-| **Status** | Active (urban legend) |
+| **Category** | CRYPTID |
+| **Subcategory** | Hybrid humanoid / urban legend |
+| **First recorded** | 1969-07-09 |
+| **Primary range** | The Goatman complex is concentrated in the United States, with three major regional clusters in Maryland (Prince George's County), Texas (Fort Worth / Lake Worth), and Kentucky (Fisherville / Pope Lick) |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Goatman is a cryptid/urban legend reported across multiple locations in the United States, most notably in Maryland, Texas, and Kentucky. Described as a hybrid creature with the upper body of a man and lower body of a goat, or a humanoid figure with goat-like features, the entity is typically portrayed as aggressive, attacking cars with axes, chasing people, and lurking near bridges and roads.
-
-The Maryland Goatman is associated with a popular origin story involving a scientist at the Beltsville Agricultural Research Center whose experiments with goats went wrong, transforming him into the creature. The Texas version, sometimes called the Lake Worth Monster, was reported in 1969 with witnesses describing a white-haired goat-man. The Pope Lick Monster of Kentucky is associated with a railroad trestle and has a darker reputation involving deaths of people attempting to encounter it.
-
-The phenomenon shows clear connections to Greek satyr mythology and may have been influenced by satanic panic in the 1970s-80s. Most researchers consider Goatman a classic American urban legend with no basis in reality.
+'Goatman' is an umbrella term in American folklore for hybrid creatures described as half-human, half-goat. There are three principal regional clusters. The Maryland Goatman, focused on Prince George's County (especially Fletchertown Road near Bowie and Tucker Road near Clinton), was popularized in October 1971 by Karen Hosler's article in the Prince George's County News, building on a folklore-class project completed in May 1971 by University of Maryland student George Lizama; common origin stories tie the creature to a fictional 'Dr. Stephen Fletcher' at the Beltsville Agricultural Research Center. The Lake Worth Monster of Greer Island in Lake Worth, Texas, was reported by witnesses including a group of three couples on the night of 9–10 July 1969; the case made the front page of the Fort Worth Star-Telegram and was followed by a famous Allen Plaster photograph; an anonymous letter to the Star-Telegram in 2005 claimed the sightings had been a high-school prank using a tinfoil mask. The Pope Lick Monster of Fisherville, Kentucky, is centred on a Norfolk Southern railway trestle over Pope Lick Creek; the legend has been linked to multiple real deaths, including 17-year-old Jack 'J.C.' Bahm II in 1988, 26-year-old Roquel Bain in 2016, and 15-year-old Savanna Bright in 2019. Folklorists treat the Goatman complex as classic American urban legend with no zoological basis, drawing on Greek satyr imagery, post-1970s satanic-panic motifs, and the lover's-lane horror tradition.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Maryland Goatman | Prince George's County, Maryland, USA |  |
+| Lake Worth Monster | Fort Worth, Texas, USA |  |
+| Pope Lick Monster | Fisherville, Kentucky, USA |  |
 
-### Primary Name
-- **Goatman** — Compound of "goat" and "man," describing the creature's hybrid nature. First used in 1950s-1970s depending on region.
+## Etymology
 
-### Regional Variations
-
-| Name | Region | Notes |
-|------|--------|-------|
-| Maryland Goatman | Maryland, USA | Most famous version with lab accident origin story |
-| Pope Lick Monster | Kentucky, USA | Named after Pope Lick Creek; trestle-associated |
-| Lake Worth Monster | Texas, USA | 1969 sightings; sometimes considered separate creature |
-| Goatman's Bridge entity | Texas, USA | Different Texas location with lynching origin story |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID/FOLKLORE
-├── Type: Humanoid
-├── Subtype: Hybrid
-└── Variant: Regional variations
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Dogman](/dogman) | Similar | Human-canine hybrid cryptid |
-| [Wendigo](/wendigo) | Similar | Malevolent humanoid creature from folklore |
-| [Jersey Devil](/jersey-devil) | Similar | Hybrid creature from New Jersey folklore |
+- **Origin**: American English compound. The 'goat-man' / 'goat-headed man' archetype draws on classical Greek satyrs and fauns, on European Devil iconography, and on lover's-lane folklore.
+- **Meaning**: Half-human, half-goat hybrid creature
+- **First use**: Local Maryland oral tradition pre-1971; first major print attestation in the Prince George's County News (October 1971).
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Satyr](../satyr/) — _related_: Greek mythological half-man, half-goat figure — likely cultural template for Goatman
+- [Pope Lick Monster](../pope-lick-monster/) — _regional_variant_: Kentucky Goatman variant centred on the Pope Lick Creek railway trestle
+- [Krampus](../krampus/) — _related_: Alpine half-goat horned figure with shared iconography
+- [Jersey Devil](../jersey-devil/) — _related_: Another regional American hybrid cryptid
+- [Bunny Man](../bunny-man/) — _similar_: Virginia urban-legend axe-wielding figure with similar lover's-lane setting
+- [Dogman](../dogman/) — _similar_: Another American hybrid-humanoid cryptid tradition
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.8 - 2.4 meters (6 - 8 feet) | Low |
-| **Weight** | 80 - 150 kg (175 - 330 lbs) | Low |
-| **Coloration** | Brown, white, gray, mixed | Low |
-| **Build** | Muscular humanoid upper body, goat-like lower body | Low |
+- **Height**: 1.8–2.4 meters _(low confidence)_
+- **Weight**: 90–160 kilograms _(low confidence)_
+- **Coloration**: white-haired (Lake Worth), dark-haired (Maryland), grey
+- **Morphology**: Highly variable across regional traditions: from a goat-headed man with axe (Maryland) to a 7-foot, ~350-pound creature with fur and scales (Lake Worth) to a humanoid with goat or sheep features (Pope Lick).
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Head | Goat-like with horns | Common |
-| Torso | Human-like upper body, muscular | Common |
-| Lower body | Goat-like legs with hooves | Common |
-| Horns | Curved goat horns | Common |
-| Hair/Fur | Shaggy hair or fur covering body | Always |
-| Eyes | Often described as glowing or unusual | Occasional |
+|---|---|---|
+| Goat-like head or horns | Most accounts describe a goat-like face, horns, or goat lower body | common |
+| Bipedal humanoid body | Walks upright on two legs | always |
+| Hairy / fur-covered body | Reports describe a body covered in fur or hair | common |
+| Axe (Maryland version) | Some Maryland accounts describe the Goatman wielding an axe and attacking cars | occasional |
+| Scales (Lake Worth Monster) | 1969 Lake Worth witnesses described a creature with both fur and scales | occasional |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Bipedal locomotion | Walks upright on goat-like legs | Reported |
-| Aggressive behavior | Attacks cars, chases people, throws objects | Reported |
-| Tool use | Some reports describe wielding axe or weapons | Folklore |
-| Jumping | Leaping ability, especially Pope Lick version | Reported |
-| Vocalization | Screams, bleating, threatening sounds | Reported |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Aggression toward vehicles | Maryland version attributed with attacking cars, especially at lover's-lane parking spots on Fletchertown Road | common | folklore |
+| Leaping onto cars | Lake Worth witnesses reported the creature leaping from trees onto a car at Greer Island | occasional | reported |
+| Voice mimicry / hypnosis (Pope Lick) | Pope Lick legends claim the creature mimics voices to lure people onto the trestle | occasional | folklore |
+| Throwing objects | Lake Worth witnesses reported the creature throwing a tire | rare | reported |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal
-- **Disposition**: Aggressive
-- **Social Structure**: Solitary
-- **Habitat Preference**: Wooded areas, bridges, railroad trestles, roads
-- **Diet**: Unknown (possibly carnivorous in folklore)
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: wooded back roads (Maryland), island and lake shore (Lake Worth), railway trestles (Pope Lick), lover's-lane parking spots
 
 ---
+## Distribution
 
-## Geographic Distribution
+The Goatman complex is concentrated in the United States, with three major regional clusters in Maryland (Prince George's County), Texas (Fort Worth / Lake Worth), and Kentucky (Fisherville / Pope Lick).
 
-### Primary Locations
+### Hotspots
 
-**Maryland**:
-- Prince George's County (Beltsville/Fletchertown Road area)
-- Associated with Beltsville Agricultural Research Center
-
-**Texas**:
-- Lake Worth area (Fort Worth) - 1969 sightings
-- Goatman's Bridge (Old Alton Bridge, Denton County)
-
-**Kentucky**:
-- Pope Lick Creek railroad trestle (Louisville area)
-
-### Sighting Hotspots
-
-| Location | Sighting Count | Peak Period | Notable Features |
-|----------|----------------|-------------|------------------|
-| Beltsville, Maryland | 50+ | 1970s | Lab accident origin story |
-| Lake Worth, Texas | 20+ | 1969 | Wave of sightings, news coverage |
-| Goatman's Bridge, Texas | 30+ | 1970s-present | Historic bridge, lynching legend |
-| Pope Lick Trestle, Kentucky | 25+ | 1980s-present | Active railroad, multiple deaths |
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Fletchertown Road | Maryland, United States |  | 1971–1980s |
+| Greer Island, Lake Worth | Texas, United States |  | July 1969 |
+| Pope Lick trestle | Kentucky, United States |  | 1980s–present |
 
 ---
-
-## Regional Versions
-
-### Maryland Goatman
-
-**Origin Story**: A scientist at the Beltsville Agricultural Research Center conducting experiments with goats was transformed into a half-man, half-goat creature (unverified legend).
-
-**Characteristics**:
-- Muscular upper body, goat legs
-- Sometimes wielding an axe
-- Attacks cars on Fletchertown Road
-- Chases teenagers
-
-**Status**: Classic urban legend; no credible evidence. Beltsville Agricultural Research Center denies any such incident.
-
----
-
-### Lake Worth Monster (Texas, 1969)
-
-**Incident**: July 1969 wave of sightings around Lake Worth, Fort Worth, Texas.
-
-**Characteristics**:
-- 7 feet tall
-- Covered in white fur and scales
-- Jumped on cars
-- Threw tires at witnesses
-
-**Status**: Generated significant news coverage; likely hoax or misidentified animal (possibly bobcat).
-
----
-
-### Goatman's Bridge (Texas)
-
-**Location**: Old Alton Bridge, Denton County, Texas
-
-**Origin Story**: Various versions involving lynching of African American goat farmer, whose spirit returns as the Goatman.
-
-**Status**: Historic bridge with separate Goatman legend; popular paranormal investigation site.
-
----
-
-### Pope Lick Monster (Kentucky)
-
-**Location**: Railroad trestle over Pope Lick Creek, Louisville area
-
-**Characteristics**:
-- Uses hypnosis or voice mimicry to lure people onto trestle
-- Wields bloody axe
-- Various origin stories (circus freak, satanic farmer)
-
-⚠️ **DANGER WARNING**: The Pope Lick trestle is an active railroad bridge. Multiple people have died from train strikes or falls while trespassing. **DO NOT ATTEMPT TO VISIT THIS LOCATION.**
-
-**Status**: Urban legend with tragic real-world consequences; serves as cautionary tale.
-
----
-
 ## Historical Timeline
 
-### Key Events
+| Date | Event | Significance |
+|---|---|---|
+| 1969-07-09 | Three couples parked at Greer Island, Lake Worth, Texas, report being attacked by a goat-man-like creature; sightings continue over following nights | Origin of the Lake Worth Monster |
+| 1969-07-10 | Lake Worth Monster makes the front page of the Fort Worth Star-Telegram | Brings the case to regional and national attention |
+| 1969-11-01 | Allen Plaster captures a widely-reproduced photograph of an alleged Lake Worth Monster | The case's most-reproduced piece of 'evidence' |
+| 1971-05-01 | University of Maryland student George Lizama submits a folklore project on the Goatman to the Maryland Folklife Archives | Earliest documented academic record of the Maryland Goatman |
+| 1971-10-27 | Karen Hosler's article 'Residents Fear Goatman Lives: Dog Found Decapitated in Old Bowie' published in the Prince George's County News | Anchors the Maryland Goatman tradition in print |
+| 1988-12-29 | Premiere of 'The Legend of the Pope Lick Monster' at the Uptown Theater in Louisville | Cinematic crystallization of the Pope Lick legend |
+| 1988-01-01 | Death of 17-year-old Jack 'J.C.' Bahm II on the Pope Lick trestle | First documented fatality associated with the Pope Lick legend |
+| 2005-01-01 | Anonymous letter to Fort Worth Star-Telegram claims the 1969 Lake Worth sightings were a high-school prank with a tinfoil mask | Most prominent debunking of the Lake Worth case |
+| 2016-04-23 | 26-year-old Roquel Bain killed by a Norfolk Southern train on the Pope Lick trestle while searching for the monster | Re-emphasizes the real-world dangers driving the Pope Lick legend's persistence |
+| 2019-05-25 | 15-year-old Savanna Bright killed near the Pope Lick trestle | Continued tragic dimension of the legend |
 
-| Date | Event | Location | Significance |
-|------|-------|----------|--------------|
-| 1950s-1960s | Early stories | Maryland | Origin of Maryland Goatman legend |
-| 1969-07 | Lake Worth wave | Texas | Multiple sightings generate news coverage |
-| 1970s | Peak era | Maryland | Height of Goatman encounters and stories |
-| 1980s | Pope Lick emergence | Kentucky | Louisville version develops |
-| 1988 | First known death | Kentucky | First documented death at Pope Lick trestle |
-| 2000s-present | Internet revival | Multiple | Legends spread online; ongoing Pope Lick deaths |
+---
+## Notable Sightings
 
-### Modern Era
-
-Goatman has evolved into a multi-faceted urban legend with regional variations across the United States. The internet has spread and mixed the various Goatman stories, creating a broader mythos. The phenomenon represents classic American urban legend evolution, blending classical mythology, modern horror, and local folklore.
+### Lake Worth Monster — Greer Island encounter ⭐
+> **Date**: 1969-07-09  
+> **Location**: Clearing on Greer Island, Lake Worth, Fort Worth Nature Center and Refuge  
+> **Witnesses**: 6 (Three young couples)  
+> **Evidence**: Damage reportedly observed on the witnesses' car; Allen Plaster photograph (later)  
+Just after midnight, three young couples parked in a clearing on Greer Island reported a goat-man-like creature leaping from the trees onto their car, clawing at the roof, and attempting to pull one of the women out of the vehicle. The Fort Worth Star-Telegram reported this and further sightings (including a tire-throwing incident) over the following days. Local police investigated but found no evidence.
+**Credibility**: low — The defining incident of the Lake Worth Monster legend.
+**Sources**: Fort Worth Star-Telegram (10 July 1969); Texas Parks & Wildlife magazine (October 2003)
 
 ---
 
-## Notable Incidents
-
-### Lake Worth Monster Wave (1969) ⭐
-
-> **Date**: July 1969
-> **Location**: Lake Worth area, Fort Worth, Texas
-> **Witnesses**: 40+ (multiple groups)
-> **Evidence**: News coverage, alleged photo, witness testimony
-
-Multiple groups of witnesses reported encountering a large white-haired creature with goat-like features. Described as 7 feet tall, covered in white fur and scales. Witnesses reported the creature jumping on cars, throwing tires, and aggressive behavior. Police investigated multiple reports. Generated significant local news coverage.
-
-**Credibility Assessment**: Low — Likely hoax or misidentified animal (bobcat suggested). Some witnesses later expressed skepticism. Most documented Goatman incident.
-
----
-
-### Maryland Goatman Encounters (1970s)
-
-> **Date**: Throughout 1970s
-> **Location**: Fletchertown Road area, Prince George's County, Maryland
-> **Witnesses**: 50+ over the decade
-> **Evidence**: Folklore accounts only
-
-Numerous reports of half-man, half-goat creature attacking cars, chasing people, and lurking in wooded areas near Beltsville Agricultural Research Center. Associated with legend of scientist whose goat experiments went wrong.
-
-**Credibility Assessment**: Very Low — Classic urban legend structure. No physical evidence. Origin story unverified and implausible. Research center denies any such incident. Typical teenage legend-trip location.
-
----
-
-### Pope Lick Monster Reports (1980s-present) ⚠️
-
-> **Date**: Ongoing since 1980s
-> **Location**: Pope Lick Creek railroad trestle, Louisville area, Kentucky
-> **Witnesses**: 25+ claimed
-> **Evidence**: None; multiple real deaths on trestle
-
-Legend describes goat-man that lures people onto active railroad trestle using hypnosis or voice mimicry. Multiple contradictory origin stories.
-
-**Credibility Assessment**: Very Low — No credible evidence of creature. Clear urban legend with tragic real-world consequences. Multiple people have died from train strikes or falls while trespassing on dangerous trestle.
-
-**⚠️ CRITICAL SAFETY WARNING**: The Pope Lick trestle is an ACTIVE RAILROAD BRIDGE. Trespassing is illegal and deadly. Multiple deaths have occurred. DO NOT VISIT.
-
----
 
 ## Evidence
 
-### Physical Evidence
-- Alleged tracks reported at various locations (none preserved or verified)
-- Vehicle damage claimed but indistinguishable from normal wear or vandalism
+### Photographic
 
-### Photographic Evidence
-- Lake Worth Monster photograph (1969) - extremely poor quality, disputed authenticity
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Allen Plaster Lake Worth Monster photograph | 1969-11 | Photograph taken by Allen Plaster of an alleged Lake Worth Monster figure near Greer Island in autumn 1969. | disputed |
+### Documentary
 
-### Video Evidence
-None exists.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Karen Hosler — 'Residents Fear Goatman Lives' (October 1971) | 1971-10 | Article in the Prince George's County News reporting the Maryland Goatman legend and a dog found decapitated in Old Bowie. | verified |
+| George Lizama — University of Maryland folklore project on the Goatman (May 1971) | 1971-05 | Folklore-class project completed by George Lizama and held in the Maryland Folklife Archives, recording oral Goatman traditions in Prince George's County. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Paranormal Theories
+### Paranormal / Cryptozoological
 
-1. **Demonic Entity**
-   Creature is demon or satanic entity manifesting in goat form. Based on goat association with devil in Christian tradition.
+**Surviving genuine cryptid** _(Various cryptozoological authors and podcasters)_
 
-2. **Cursed Individual**
-   Various origin stories involving cursed farmers, circus performers, or others transformed into goat-man.
+A minority of cryptozoological writers treat the Lake Worth and Maryland Goatman cases as evidence of an unknown bipedal animal, sometimes grouped with Bigfoot or Dogman traditions.
 
-### Scientific Explanations
+### Skeptical
 
-1. **Hybrid Experiment** (Maryland legend)
-   Claim that scientist created human-goat hybrid at research facility. Completely unverified and implausible. Research center denies.
+**Hoax and prank** _(Skeptical folklorists, Joe Nickell (general principle))_
 
-### Skeptical Explanations (Consensus View)
+The Lake Worth sightings show the classic shape of a teenage prank: clustered in summer holidays, ceasing when school resumes, and corroborated by an anonymous 2005 confession that high-school classmates used a tinfoil mask to scare park-goers.
 
-1. **Urban Legend** ⭐ (Most likely)
-   Entire phenomenon is urban legend and folklore with no basis in reality. Evidence:
-   - Classic urban legend structure
-   - No credible evidence despite decades of reports
-   - Multiple contradictory origin stories
-   - Functions as cautionary tale
-   - Similar to other "lovers lane monster" legends
+**Urban legend transmission** _(Barry Pearson (University of Maryland), Jan Harold Brunvand (general urban-legend research))_
 
-2. **Satyr Mythology Influence**
-   Modern American adaptation of classical Greek satyr mythology combined with Christian devil imagery. Clear similarities to Pan and satyr descriptions.
+Folklorist Barry Pearson and others attribute the Maryland Goatman's persistence to bored teenagers retelling and embellishing the lover's-lane horror story along Fletchertown Road, with no underlying biological reality.
 
-3. **Satanic Panic Influence**
-   1970s-80s satanic panic contributed to legend growth, particularly goat/devil association and ritual sacrifice elements.
+**Misattribution of train deaths (Pope Lick)** _(Norfolk Southern Railway, Louisville-area authorities)_
 
-4. **Misidentification**
-   Some Lake Worth sightings may have been misidentified animals (bobcat suggested).
+Skeptics argue the Pope Lick deaths are a tragic but conventional outcome of trespassing on a working railway trestle — not evidence of a creature.
 
-5. **Hoax and Mass Hysteria**
-   Initial hoaxes led to copycat reports and mass hysteria, particularly in Lake Worth incident.
+
+## Popular Culture
+
+**Literature**: Mark Opsasnick — The Maryland Bigfoot Reference (1992) and subsequent Goatman articles; Various regional folklore anthologies
+
+**Film / TV**: The Legend of the Pope Lick Monster (1988, Ron Schildknecht); Multiple Travel Channel and Discovery Channel cryptid episodes; Goatman's Bridge ghost-tour features (Old Alton Bridge, Texas)
+
+**Other**: Goatman's Bridge (Old Alton Bridge, Denton, Texas) ghost-tour tradition; Annual Goatman-themed Halloween events in Maryland and Texas
 
 ---
+## Research
 
-## Cultural Significance
+### Researchers
 
-### Urban Legend Tradition
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Mark Opsasnick | Independent folklore researcher | Long-running documentation of Maryland Goatman and related cryptid traditions | 1980s–present |
+| Barry Pearson | University of Maryland (folklore) | Academic analysis of the Maryland Goatman as urban legend | 1970s–present |
+| Sallie Ann Clarke | Independent author | Author of 'The Lake Worth Monster of Greer Island, Fort Worth, Texas' (1969) | 1969–1970s |
 
-Goatman represents classic American urban legend:
-- Lovers lane monster archetype
-- Legend-tripping and thrill-seeking culture
-- Cautionary tale function
-- Regional variations with local flavor
+### Organizations
 
-### Mythological Connections
+- [Fort Worth Nature Center and Refuge](https://fwnaturecenter.org/) — Manages Greer Island; cultural-heritage interpretation of the 1969 case
+- [Maryland Folklife Archives](#) — Custodian of the original 1971 Lizama Goatman project
 
-Clear parallels to:
-- Greek satyrs and Pan
-- Christian devil imagery (goat association)
-- European faun folklore
-- Worldwide human-animal hybrid myths
-
-### Popular Culture
-
-**Literature**:
-- Slate, S. (2020). *The Lake Worth Monster: A Media History*
-- Numerous urban legend collections
-- Internet creepypasta tradition
-
-**Film/TV**:
-- *Goatman's Bridge* (2022) - horror film
-- *The Pope Lick Monster* (2013) - documentary
-- Various paranormal investigation shows
-
-**Other**:
-- Legend-tripping destinations
-- Halloween attractions
-- Internet memes and viral stories
-- Tourist draw (especially Goatman's Bridge)
+No active scientific research; ongoing folkloric and cultural-history work.
 
 ---
+## Sources
 
-## Safety Warnings
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Pope Lick Trestle ⚠️
-
-**DO NOT VISIT THE POPE LICK TRESTLE**
-
-- Active Norfolk Southern Railway bridge
-- 90+ feet high
-- Trains pass regularly with no warning
-- No escape routes when train approaches
-- Trespassing is illegal (criminal charges possible)
-
-**Known Deaths**:
-- Multiple fatalities from train strikes
-- Falls from trestle
-- Ongoing danger despite warnings
-
-The Pope Lick Monster legend has resulted in real deaths. Seeking the creature puts lives at risk.
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Limited serious cryptozoological research. Primarily studied by folklorists and cultural researchers as example of American urban legend evolution.
-
-### Notable Researchers
-
-| Name | Focus | Contribution |
-|------|-------|--------------|
-| Sallie Ann Clarke | Lake Worth Monster | Documented 1969 events |
-| Elizabeth Tucker | Folklore scholar | Analysis of campus and teenage legends |
-
-### Current Status
-
-Most researchers and folklorists consider Goatman a pure urban legend with no cryptozoological merit. The phenomenon is valuable for understanding how modern legends develop and spread, particularly in the internet age.
-
----
 
 ## How to Report a Sighting
 
-If you've witnessed Goatman or similar creature, please submit a report:
-
 1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date and time (as precise as possible)
-   - Exact location (coordinates preferred)
-   - Weather conditions
-   - Detailed description
-   - Any evidence (photos, video, audio)
-   - Witness information (can be anonymized)
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const goatman = await wyrd.getPhenomenon('goatman');
-const sightings = await wyrd.getSightings('goatman');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/goatman/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-
-- Slate, S. & Biskinic, S. (2020). *The Lake Worth Monster: A Media History*. Defiance Press.
-- Tucker, E. (2007). *Haunted Halls: Ghostlore of American College Campuses*. University Press of Mississippi.
-- Montell, W.L. (2000). *Ghosts Along the Cumberland*. University of Tennessee Press.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
